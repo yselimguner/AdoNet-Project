@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\TEKRAR\C# Baştan\EntityFramework\EntityFrameworkADOnet\EntityFrameworkADOnet\bin\Debug\EntityFrameworkADOnet.exe.config
+C:\Users\user\Desktop\TEKRAR\C# Baştan\EntityFramework\EntityFrameworkADOnet\EntityFrameworkADOnet\bin\Debug\EntityFrameworkADOnet.exe
+C:\Users\user\Desktop\TEKRAR\C# Baştan\EntityFramework\EntityFrameworkADOnet\EntityFrameworkADOnet\bin\Debug\EntityFrameworkADOnet.pdb
+C:\Users\user\Desktop\TEKRAR\C# Baştan\EntityFramework\EntityFrameworkADOnet\EntityFrameworkADOnet\obj\Debug\EntityFrameworkADOnet.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TEKRAR\C# Baştan\EntityFramework\EntityFrameworkADOnet\EntityFrameworkADOnet\obj\Debug\EntityFrameworkADOnet.Form1.resources
+C:\Users\user\Desktop\TEKRAR\C# Baştan\EntityFramework\EntityFrameworkADOnet\EntityFrameworkADOnet\obj\Debug\EntityFrameworkADOnet.Properties.Resources.resources
+C:\Users\user\Desktop\TEKRAR\C# Baştan\EntityFramework\EntityFrameworkADOnet\EntityFrameworkADOnet\obj\Debug\EntityFrameworkADOnet.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TEKRAR\C# Baştan\EntityFramework\EntityFrameworkADOnet\EntityFrameworkADOnet\obj\Debug\EntityFrameworkADOnet.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TEKRAR\C# Baştan\EntityFramework\EntityFrameworkADOnet\EntityFrameworkADOnet\obj\Debug\EntityFrameworkADOnet.exe
+C:\Users\user\Desktop\TEKRAR\C# Baştan\EntityFramework\EntityFrameworkADOnet\EntityFrameworkADOnet\obj\Debug\EntityFrameworkADOnet.pdb
